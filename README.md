@@ -1,16 +1,16 @@
-### Hi there 👋
+![](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=ecf05e47ljinz7kfyc5x12h034bslciauo8whg0yhyhy9auk&rid=giphy.gif&ct=g)
 
-<!--
-**edwarddevp/edwarddevp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there 👋
 
-Here are some ideas to get you started:
+### I'm Edward Bocaranda a Full Stack Web developer. I have extensive experience in the design and building optimize web sites.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### I'm motivated and passionate about building top-quality websites and applications either frontend or backend side or both,  always interested in learning new things, leveling up, and perfecting my craft.
+
+
+### Skills
+
+- :iphone: React-native - Android Studio
+- :computer: Reactjs - Angular - Nextjs
+- :briefcase: MongoDB - Postgresql - express - nodejs - graphql
+
+### :email: edwarddevp@gmail.com
